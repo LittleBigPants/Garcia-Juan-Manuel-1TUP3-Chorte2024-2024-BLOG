@@ -79,14 +79,14 @@ a:hover {
 
 
 /* Side bar */
-aside {
+/* aside {
 	background-color: lightblue;
 	display: flex;
 	flex-direction: column;
 	align-items: flex-start;
 	flex-wrap: wrap;
 	width: 8%
-}
+} */
 /* Main */
 
 #main {
